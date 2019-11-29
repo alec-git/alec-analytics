@@ -1,0 +1,8 @@
+{  
+   "entries":[  
+      {  
+         "url":"s3://alecvis/hospital",
+         "mandatory":true
+      }
+   ]
+}
